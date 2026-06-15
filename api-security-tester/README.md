@@ -10,7 +10,7 @@
 
 > **Authorized use only.** Only test APIs you own or have explicit written permission to assess.
 
-Repository: <https://github.com/marciolscoutinho/ciber/api-security-tester>
+Repository: <https://github.com/marciolscoutinho/ciber>
 
 ---
 
