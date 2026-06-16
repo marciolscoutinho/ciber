@@ -256,4 +256,4 @@ ciber/
 
 ---
 
-*Built by [Marcio Coutinho](https://github.com/marciolscoutinho) — Cybersecurity Level 5 CET, Porto, Portugal.*
+*Built by [Marcio Coutinho](https://github.com/marciolscoutinho) — Cybersecurity Specialist, Porto, Portugal.*
