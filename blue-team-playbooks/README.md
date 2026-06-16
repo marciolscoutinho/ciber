@@ -148,7 +148,7 @@ ps aux | awk '$1 == "root" {print}'
 
 ```text
 ciber/
-  ├──blue-team-playbooks
+  └── blue-team-playbooks
                 ├── README.md
                 ├── LICENSE
                 ├── .gitignore
