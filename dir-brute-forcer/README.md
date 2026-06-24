@@ -119,15 +119,16 @@ python dir_brute_forcer.py https://lab.local --insecure
 ## Repository Structure
 
 ```text
-dir-brute-forcer/
-├── dir_brute_forcer.py
-├── README.md
-├── DISCLAIMER.md
-├── LICENSE
-├── .gitignore
-└── .github/
-    └── workflows/
-        └── ci.yml
+ciber/
+    └── dir-brute-forcer/
+                       ├── dir_brute_forcer.py
+                       ├── README.md
+                       ├── DISCLAIMER.md
+                       ├── LICENSE
+                       ├── .gitignore
+                       └── .github/
+                                 └── workflows/
+                                             └── ci.yml
 ```
 
 ---
