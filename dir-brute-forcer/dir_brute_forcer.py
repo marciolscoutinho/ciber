@@ -7,7 +7,7 @@ Designed for authorized security testing, internal assessments, and labs.
 
 Authorized use only. Never test systems without explicit written permission.
 
-Author      : Marcio Coutinho — CET Level 5 in Cybersecurity
+Author      : Marcio Coutinho — Cybersecurity Specialist
 Date        : 28/10/2024
 Requirements: Python 3.8+ | Zero external dependencies
 """
