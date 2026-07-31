@@ -57,4 +57,4 @@ This tool is for security assessments of systems you **own or have written permi
 
 ---
 
-> Built by [Márcio Coutinho](https://github.com/marciolscoutinho) | Level 5 Cybersecurity Specialist
+> Built by [Márcio Coutinho](https://github.com/marciolscoutinho) | Cybersecurity Specialist
