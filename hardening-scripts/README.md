@@ -170,13 +170,14 @@ systemctl enable auditd && systemctl start auditd
 ## Repository Structure
 
 ```
-hardening-scripts/
-├── hardening_check.py
-├── .github/
-│   └── workflows/
-│       └── ci.yml
-├── README.md
-└── .gitignore
+ciber
+    └── hardening-scripts/
+                        ├── hardening_check.py
+                        ├── .github/
+                        │         └── workflows/
+                        │                     └── ci.yml
+                        ├── README.md
+                        └── .gitignore
 ```
 
 ---
