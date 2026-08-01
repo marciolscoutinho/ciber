@@ -9,7 +9,7 @@ Categories: API keys, tokens, passwords, private keys, connection strings,
             cloud credentials (AWS/GCP/Azure), JWT, PEM certificates.
 
 Author : Márcio Coutinho — Cybersecurity Specialist
-Date   : 24/10/2025
+Date   : 17/01/2026
 Req.   : Python 3.8+ | Zero external dependencies
 """
 
