@@ -1,0 +1,12 @@
+Jun 14 10:00:01 server sshd[1234]: Failed password for root from 192.168.1.200 port 54321 ssh2
+Jun 14 10:00:02 server sshd[1234]: Failed password for root from 192.168.1.200 port 54322 ssh2
+Jun 14 10:00:03 server sshd[1234]: Failed password for root from 192.168.1.200 port 54323 ssh2
+Jun 14 10:00:04 server sshd[1234]: Failed password for admin from 192.168.1.200 port 54324 ssh2
+Jun 14 10:00:05 server sshd[1234]: Failed password for admin from 192.168.1.200 port 54325 ssh2
+Jun 14 10:00:06 server sshd[1234]: Failed password for postgres from 192.168.1.200 port 54326 ssh2
+Jun 14 10:05:01 server sshd[1235]: Accepted password for marcio from 10.0.0.5 port 22345 ssh2
+Jun 14 10:05:02 server sshd[1235]: pam_unix(sshd:session): session opened for user marcio by (uid=0)
+Jun 14 10:10:01 server sshd[1236]: Invalid user testuser from 203.0.113.99 port 12345
+Jun 14 10:10:02 server sshd[1236]: Failed password for invalid user testuser from 203.0.113.99 port 12345 ssh2
+Jun 14 10:15:00 server sshd[1237]: Disconnected from authenticating user root 192.168.1.200 port 54327 [preauth]
+Jun 14 10:20:00 server sshd[1238]: Accepted publickey for marcio from 10.0.0.5 port 22346 ssh2
