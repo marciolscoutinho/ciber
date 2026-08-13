@@ -8,7 +8,8 @@ Comparable to testssl.sh, but implemented in pure Python.
 
 ⚠  USE ONLY ON SYSTEMS YOU OWN OR HAVE WRITTEN AUTHORIZATION TO TEST.
 
-Author : Márcio Coutinho — Level 5 CET in Cybersecurity
+Author      : Marcio Coutinho — Cybersecurity Specialist, Porto, Portugal
+Date        : 26/03/2024
 Reqs.  : Python 3.8+ | Zero external dependencies
 """
 from __future__ import annotations
