@@ -1,0 +1,8 @@
+services:
+  hackme:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./hackme.db:/app/hackme.db
+    restart: unless-stopped
